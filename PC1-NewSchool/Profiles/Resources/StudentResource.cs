@@ -1,6 +1,6 @@
-﻿namespace PC1_NewSchool.Profiles.Domain.Models;
+﻿namespace PC1_NewSchool.Profiles.Resources;
 
-public class Student
+public class StudentResource
 {
     public long Id { get; set; }
     public string Name { get; set; }
